@@ -34,7 +34,7 @@ A Machine Learning web application built with **Streamlit** that predicts future
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/stock-predictor-app.git
+git clone https://github.com/namansharma28/StockPredictorModel.git
 cd stock-predictor-app
 
 #Install dependencies:
