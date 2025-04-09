@@ -42,13 +42,16 @@ pip install -r requirements.txt
 
 #Run the app:
 streamlit run app.py
+```
+
 🧠 Models Overview
 Linear Regression (Basic): Predicts based on previous close prices.
 
 Linear Regression (v2): Uses moving averages (MA10, MA50) as additional features.
 
 LSTM: Deep learning model trained on 100-day windows of closing prices.
-```
+
+
 📈 Example Output
 ![SS1](data/image.png)
 ![SS2](data/image-1.png)
